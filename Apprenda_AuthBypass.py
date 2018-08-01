@@ -1,6 +1,7 @@
 from selenium import webdriver
 import sys
 print("###########################################################")
+print('Apprenda Platform Version: 6.0.3 (Authentication Bypass)')
 print('# Explored by Emre Selim')
 print('# Developed by Emre Selim')
 print('# Author Github: https://github.com/THYemre')
